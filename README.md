@@ -12,10 +12,7 @@ Java 19 installation
 - `sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-19/bin/java 1919`
 - Check java version: `java -version`
 
-Building
--------------
-- `./gradlew build --no-daemon`
-- Jar file (rooti-1.0-SNAPSHOT.jar) is located in target
+Download software in releases!
 
 Running
 -------------
